@@ -1,0 +1,92 @@
+{
+  "expenses": [
+    {
+      "type": "Cheque",
+      "friend": [
+        "Sandy"
+      ],
+      "name": "Bag",
+      "date": "2021-08-20",
+      "currency": "GBP",
+      "amount": 100,
+      "id": 19
+    },
+    {
+      "type": "Cash",
+      "friend": [
+        "Andy"
+      ],
+      "name": "Laptop",
+      "date": "2021-08-19",
+      "currency": "INR",
+      "amount": 100000,
+      "id": 21
+    },
+    {
+      "type": "Credit Card",
+      "friend": [
+        "Mandy"
+      ],
+      "name": "Jacket",
+      "date": "2021-08-31",
+      "currency": "INR",
+      "amount": 6000,
+      "id": 22
+    },
+    {
+      "type": "Cash",
+      "friend": [
+        "Randy"
+      ],
+      "name": "Cap",
+      "date": "2021-08-23",
+      "currency": "USD",
+      "amount": 100,
+      "id": 23
+    },
+    {
+      "type": "Debit Card",
+      "friend": [
+        "Sandy"
+      ],
+      "name": "Tshirt",
+      "date": "2021-08-25",
+      "currency": "AUD",
+      "amount": 1000,
+      "id": 24
+    },
+    {
+      "type": "Debit Card",
+      "friend": [
+        "Mandy"
+      ],
+      "name": "IPhone12",
+      "date": "2021-08-21",
+      "currency": "INR",
+      "amount": 150000,
+      "id": 25
+    },
+    {
+      "type": "Credit Card",
+      "friend": [
+        "Randy"
+      ],
+      "name": "Showes",
+      "date": "2021-08-10",
+      "currency": "USD",
+      "amount": 2000,
+      "id": 26
+    },
+    {
+      "type": "Cash",
+      "friend": [
+        "Randy"
+      ],
+      "name": "Camera",
+      "date": "2021-08-01",
+      "currency": "AUD",
+      "amount": 200000,
+      "id": 27
+    }
+  ]
+}
